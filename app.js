@@ -401,7 +401,7 @@ let jk = 0;
 for (;jk<4;jk++){
     console.log(jk);
 }
-//    🔥🔥🔥🔥🔥                     SESSION 6         🔥🔥🔥🔥🔥
+//    🔥🔥🔥🔥🔥                     SESSION 5         🔥🔥🔥🔥🔥
 let strOne = "clarusway";
 console.log(strOne.length);//9 pythondaki len() metodu ile aynı
 console.log(strOne[0]);//c indexleme python ile aynı []içinde belirtiyoruz ve 1 den değil 0 dan başlar
